@@ -23,7 +23,7 @@ Your sensitive information will be saved into SecretsManager.
 - conf, which includes the s32s3 configuration.
 
 ## Depyloment
-![](./img/deployment.png)
+![](/img/deployment.png)
 
 ## How to use this module
 
