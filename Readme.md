@@ -2,6 +2,8 @@
 
 # S32S3 module introduction
 
+This module will replicate the data from S3 bucket to S3 bucket located in another account.
+
 ## Which tools are involed
 - Terraform
 - rclone
